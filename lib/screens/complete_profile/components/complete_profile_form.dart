@@ -41,8 +41,8 @@ class _CompleteProfileFormState extends State<CompleteProfileForm> {
       child: Column(
         children: [
           buildFirstNameFormField(),
-          /*SizedBox(height: getProportionateScreenHeight(30)),
-          buildLastNameFormField(),*/
+          SizedBox(height: getProportionateScreenHeight(30)),
+          buildLastNameFormField(),
           SizedBox(height: getProportionateScreenHeight(30)),
           buildPhoneNumberFormField(),
           SizedBox(height: getProportionateScreenHeight(30)),
