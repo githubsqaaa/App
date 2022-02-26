@@ -1,1 +1,1 @@
-# Ski-App
+# App
